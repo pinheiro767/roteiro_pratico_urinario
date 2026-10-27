@@ -1,0 +1,505 @@
+[
+  {
+    "id": "componentes",
+    "title": "Componentes fundamentais",
+    "subtitle": "Visão geral do percurso da urina",
+    "items": [
+      {
+        "id": "componentes-01",
+        "number": "1",
+        "name": "Rim",
+        "tip": "Localize o órgão retroperitoneal e seu hilo medial.",
+        "description": "Produz urina e participa da regulação do volume de líquidos, eletrólitos e pressão arterial.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "componentes-02",
+        "number": "2",
+        "name": "Ureter",
+        "tip": "Acompanhe o trajeto da pelve renal até a bexiga.",
+        "description": "Ducto muscular retroperitoneal que conduz urina por peristaltismo.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "componentes-03",
+        "number": "3",
+        "name": "Bexiga urinária",
+        "tip": "Observe seu posicionamento na pelve menor.",
+        "description": "Reservatório muscular distensível, situado posteriormente à sínfise púbica.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "componentes-04",
+        "number": "4",
+        "name": "Uretra",
+        "tip": "Identifique sua saída da bexiga pelo óstio interno.",
+        "description": "Conduz a urina para o meio externo; apresenta diferenças entre os sexos.",
+        "kind": "estrutura"
+      }
+    ]
+  },
+  {
+    "id": "posicao-vasos",
+    "title": "Posição dos rins e vasos renais",
+    "subtitle": "Lateralidade, origem arterial e drenagem venosa",
+    "items": [
+      {
+        "id": "posicao-vasos-01",
+        "number": "5",
+        "name": "Rim direito",
+        "tip": "Situado, em geral, ligeiramente mais inferior que o esquerdo.",
+        "description": "Sua posição é influenciada pela relação superior com o fígado.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-02",
+        "number": "6",
+        "name": "Rim esquerdo",
+        "tip": "Compare o nível superior com o do rim direito.",
+        "description": "Na parede posterior do abdome, retroperitoneal.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-03",
+        "number": "7",
+        "name": "Artéria renal direita",
+        "tip": "Procure seu trajeto posterior à veia cava inferior.",
+        "description": "Ramo lateral da aorta abdominal.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-04",
+        "number": "8",
+        "name": "Artéria renal esquerda",
+        "tip": "Siga o ramo da aorta abdominal em direção ao hilo esquerdo.",
+        "description": "Em geral, de trajeto mais curto que a artéria renal direita.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-05",
+        "number": "Indicador",
+        "name": "Aorta abdominal",
+        "tip": "Vaso de origem das artérias renais.",
+        "description": "Serve como ponto de referência para a vascularização arterial.",
+        "kind": "indicador"
+      },
+      {
+        "id": "posicao-vasos-06",
+        "number": "9",
+        "name": "Veia renal direita",
+        "tip": "Identifique a drenagem para a veia cava inferior.",
+        "description": "Habitualmente mais curta que a veia renal esquerda.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-07",
+        "number": "10",
+        "name": "Veia renal esquerda",
+        "tip": "Procure o trajeto anterior à aorta, sob a artéria mesentérica superior.",
+        "description": "Recebe, habitualmente, tributárias gonadal e suprarrenal esquerdas.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "posicao-vasos-08",
+        "number": "Indicador",
+        "name": "Veia cava inferior",
+        "tip": "Referência para a drenagem venosa dos rins.",
+        "description": "Recebe as veias renais.",
+        "kind": "indicador"
+      },
+      {
+        "id": "posicao-vasos-09",
+        "number": "11",
+        "name": "Artérias segmentares",
+        "tip": "Procure ramos da artéria renal próximos do seio renal.",
+        "description": "Artérias predominantemente terminais que irrigam segmentos renais.",
+        "kind": "estrutura"
+      }
+    ]
+  },
+  {
+    "id": "externa",
+    "title": "Rim: configuração externa",
+    "subtitle": "Revestimentos, polos, faces, margens, hilo e seio",
+    "items": [
+      {
+        "id": "externa-01",
+        "number": "12",
+        "name": "Fáscia renal",
+        "tip": "Revestimento conjuntivo externo da gordura perirrenal.",
+        "description": "Contribui para a fixação dos rins e da glândula suprarrenal.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-02",
+        "number": "13",
+        "name": "Cápsula adiposa",
+        "tip": "Localize o tecido adiposo que envolve a cápsula fibrosa.",
+        "description": "Também chamada gordura perirrenal.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-03",
+        "number": "14",
+        "name": "Cápsula fibrosa",
+        "tip": "Procure a fina cobertura firmemente aderida ao parênquima.",
+        "description": "Revestimento conjuntivo direto do rim.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-04",
+        "number": "15",
+        "name": "Polo superior",
+        "tip": "Extremidade próxima da glândula suprarrenal.",
+        "description": "O rim possui polos superior e inferior.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-05",
+        "number": "16",
+        "name": "Polo inferior",
+        "tip": "Identifique a extremidade inferior da forma reniforme.",
+        "description": "Em geral fica mais distante do plano mediano que o polo superior.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-06",
+        "number": "17",
+        "name": "Face anterior",
+        "tip": "Oriente a peça considerando as relações viscerais anteriores.",
+        "description": "Uma das duas faces do rim.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-07",
+        "number": "18",
+        "name": "Face posterior",
+        "tip": "Oriente pelo contato com a parede posterior abdominal.",
+        "description": "Relaciona-se com o diafragma e a musculatura posterior.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-08",
+        "number": "19",
+        "name": "Margem lateral",
+        "tip": "É convexa e voltada lateralmente.",
+        "description": "Oposta à margem medial, que contém o hilo.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-09",
+        "number": "20",
+        "name": "Margem medial",
+        "tip": "É côncava e apresenta o hilo renal.",
+        "description": "Local por onde vasos, nervos e a pelve renal se relacionam com o seio.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "externa-10",
+        "number": "Indicador",
+        "name": "Hilo renal",
+        "tip": "Observe a abertura na margem medial.",
+        "description": "Da frente para trás, a disposição típica é veia renal, artéria renal e pelve renal.",
+        "kind": "indicador"
+      },
+      {
+        "id": "externa-11",
+        "number": "21",
+        "name": "Seio renal",
+        "tip": "Procure a cavidade interna acessível pelo hilo renal.",
+        "description": "Contém cálices, pelve renal, vasos, nervos e tecido adiposo.",
+        "kind": "estrutura"
+      }
+    ]
+  },
+  {
+    "id": "interna",
+    "title": "Rim: córtex e medula",
+    "subtitle": "Organização macroscópica do parênquima renal",
+    "items": [
+      {
+        "id": "interna-01",
+        "number": "22",
+        "name": "Córtex renal",
+        "tip": "Região periférica do parênquima, abaixo da cápsula fibrosa.",
+        "description": "Estende-se entre as pirâmides formando as colunas renais.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "interna-02",
+        "number": "A",
+        "name": "Colunas renais",
+        "tip": "Identifique prolongamentos corticais entre pirâmides.",
+        "description": "Também chamadas colunas de Bertin.",
+        "kind": "letra"
+      },
+      {
+        "id": "interna-03",
+        "number": "23",
+        "name": "Medula renal",
+        "tip": "Região interna formada principalmente pelas pirâmides.",
+        "description": "As pirâmides convergem em direção às papilas.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "interna-04",
+        "number": "B",
+        "name": "Pirâmides renais",
+        "tip": "Reconheça as formações cônicas, de base cortical.",
+        "description": "Seu ápice corresponde à papila renal.",
+        "kind": "letra"
+      },
+      {
+        "id": "interna-05",
+        "number": "Indicador",
+        "name": "Papila renal",
+        "tip": "Localize o ápice da pirâmide voltado para um cálice menor.",
+        "description": "Local de desembocadura dos ductos papilares.",
+        "kind": "indicador"
+      }
+    ]
+  },
+  {
+    "id": "coletor",
+    "title": "Cálices e pelve renal",
+    "subtitle": "Percurso da urina no sistema coletor",
+    "items": [
+      {
+        "id": "coletor-01",
+        "number": "1",
+        "name": "Cálices renais menores",
+        "tip": "Procure estruturas em forma de taça junto às papilas.",
+        "description": "Recebem a urina eliminada pelas papilas renais.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "coletor-02",
+        "number": "2",
+        "name": "Cálices renais maiores",
+        "tip": "Observe a união de cálices menores.",
+        "description": "Podem ser descritos como superior, médio e inferior, com variação anatômica.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "coletor-03",
+        "number": "3",
+        "name": "Pelve renal",
+        "tip": "Identifique a porção em funil que continua como ureter.",
+        "description": "Coleta a urina dos cálices maiores.",
+        "kind": "estrutura"
+      }
+    ]
+  },
+  {
+    "id": "ureter",
+    "title": "Ureter: porções e constrições",
+    "subtitle": "Trajeto abdominal, ilíaco, pélvico e intramural",
+    "items": [
+      {
+        "id": "ureter-01",
+        "number": "4",
+        "name": "Parte abdominal",
+        "tip": "Acompanhe o ureter sobre o músculo psoas maior.",
+        "description": "Desce retroperitonealmente em direção à abertura superior da pelve.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "ureter-02",
+        "number": "5",
+        "name": "Parte ilíaca",
+        "tip": "Observe a passagem na região do cruzamento dos vasos ilíacos.",
+        "description": "Correspondente à transição do trajeto abdominal para o pélvico.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "ureter-03",
+        "number": "6",
+        "name": "Parte pélvica",
+        "tip": "Acompanhe o curso na parede lateral da pelve até a bexiga.",
+        "description": "Suas relações diferem conforme o sexo.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "ureter-04",
+        "number": "7",
+        "name": "Parte intramural",
+        "tip": "Observe a passagem oblíqua pela parede vesical.",
+        "description": "Auxilia o mecanismo antirrefluxo vesicoureteral.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "ureter-05",
+        "number": "Constrição",
+        "name": "Junção pieloureteral",
+        "tip": "Transição da pelve renal ao ureter.",
+        "description": "Um dos locais clássicos de estreitamento fisiológico.",
+        "kind": "constricao"
+      },
+      {
+        "id": "ureter-06",
+        "number": "Constrição",
+        "name": "Cruzamento dos vasos ilíacos",
+        "tip": "Observe a região de cruzamento na entrada da pelve.",
+        "description": "Outro local clássico de estreitamento fisiológico.",
+        "kind": "constricao"
+      },
+      {
+        "id": "ureter-07",
+        "number": "Constrição",
+        "name": "Porção intramural",
+        "tip": "Identifique a passagem pela parede da bexiga.",
+        "description": "Terceiro local clássico de estreitamento fisiológico.",
+        "kind": "constricao"
+      }
+    ]
+  },
+  {
+    "id": "bexiga",
+    "title": "Bexiga urinária",
+    "subtitle": "Configuração externa e acidentes internos",
+    "items": [
+      {
+        "id": "bexiga-01",
+        "number": "8",
+        "name": "Ápice da bexiga",
+        "tip": "Extremidade anterior, orientada para a sínfise púbica.",
+        "description": "Une-se ao ligamento umbilical mediano.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-02",
+        "number": "9",
+        "name": "Corpo da bexiga",
+        "tip": "Região principal e distensível do reservatório urinário.",
+        "description": "A forma varia com o enchimento.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-03",
+        "number": "10",
+        "name": "Fundo da bexiga",
+        "tip": "Também denominado base; observe a região posteroinferior.",
+        "description": "Recebe os ureteres nas regiões posterolaterais.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-04",
+        "number": "11",
+        "name": "Colo da bexiga",
+        "tip": "Porção inferior que continua com a uretra.",
+        "description": "Relação importante com o óstio interno da uretra.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-05",
+        "number": "12",
+        "name": "Trígono da bexiga",
+        "tip": "Área triangular lisa da superfície interna.",
+        "description": "Limitado pelos dois óstios ureterais e pelo óstio interno da uretra.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-06",
+        "number": "13",
+        "name": "Prega interuretérica",
+        "tip": "Prega entre os dois óstios ureterais.",
+        "description": "Forma a borda superior do trígono vesical.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-07",
+        "number": "14",
+        "name": "Fossa retroureterica",
+        "tip": "Observe a região posterior à prega interuretérica.",
+        "description": "Acidente interno situado posteriormente aos óstios ureterais.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-08",
+        "number": "15",
+        "name": "Pregas vesicais",
+        "tip": "Procure pregas da mucosa na bexiga vazia.",
+        "description": "São mais evidentes fora da região do trígono.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-09",
+        "number": "16",
+        "name": "Úvula vesical",
+        "tip": "Pequena elevação no entorno do óstio interno da uretra.",
+        "description": "Pode ser mais evidente no sexo masculino.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-10",
+        "number": "17",
+        "name": "Óstio do ureter",
+        "tip": "Identifique um dos dois orifícios ureterais no trígono.",
+        "description": "Entrada da urina na cavidade da bexiga.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "bexiga-11",
+        "number": "18",
+        "name": "Óstio interno da uretra",
+        "tip": "Localizado no ângulo inferior do trígono vesical.",
+        "description": "Marca o início da uretra.",
+        "kind": "estrutura"
+      }
+    ]
+  },
+  {
+    "id": "uretra-f",
+    "title": "Uretra feminina",
+    "subtitle": "Identificação geral — sem itens numerados na imagem do roteiro",
+    "items": [
+      {
+        "id": "uretra-f-01",
+        "number": "—",
+        "name": "Uretra feminina",
+        "tip": "Da bexiga ao vestíbulo da vagina, anterior à abertura vaginal.",
+        "description": "É um canal relativamente curto, que conduz a urina ao exterior.",
+        "kind": "sem-numero"
+      }
+    ]
+  },
+  {
+    "id": "uretra-m",
+    "title": "Uretra masculina",
+    "subtitle": "Porções da uretra masculina",
+    "items": [
+      {
+        "id": "uretra-m-01",
+        "number": "19",
+        "name": "Porção intramural",
+        "tip": "Trecho inicial no colo vesical.",
+        "description": "Também denominada porção pré-prostática, segundo a classificação adotada.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "uretra-m-02",
+        "number": "20",
+        "name": "Porção prostática",
+        "tip": "Atravessa a próstata.",
+        "description": "Recebe a abertura dos ductos ejaculatórios e ductos prostáticos.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "uretra-m-03",
+        "number": "21",
+        "name": "Porção membranosa",
+        "tip": "Atravessa a região do esfíncter externo da uretra.",
+        "description": "Trecho relativamente curto, situado inferiormente à próstata.",
+        "kind": "estrutura"
+      },
+      {
+        "id": "uretra-m-04",
+        "number": "22",
+        "name": "Porção esponjosa",
+        "tip": "Percorre o corpo esponjoso do pênis.",
+        "description": "Termina no óstio externo da uretra.",
+        "kind": "estrutura"
+      }
+    ]
+  }
+]

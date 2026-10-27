@@ -1,0 +1,59 @@
+ATLAS URINÁRIO 3D — ROTEIRO PRÁTICO (PWA)
+Profª Drª Cláudia Pinheiro • Ciências Biológicas • Anatomia Humana
+
+ARQUIVO PRINCIPAL: index.html
+
+O QUE ESTE APLICATIVO FAZ
+- Usa a capa anatômica 3D fornecida.
+- Organiza os 55 itens (incluindo referências e constrições) apresentados nas fotografias do roteiro em nove blocos.
+- Preserva a numeração original dentro de cada bloco; algumas numerações se repetem no documento.
+- Localiza estruturas por número ou nome, filtra fotos pendentes e permite marcar itens revisados.
+- Permite anexar até oito fotografias por estrutura, tiradas pela câmera ou escolhidas na galeria.
+- Salva as fotografias, notas e itens revisados no armazenamento local do navegador (IndexedDB).
+- Permite exportar e restaurar um backup JSON com todas as imagens e anotações.
+- Prepara uma impressão A4 com imagens inteiras, mantendo no máximo duas por folha e criando folhas adicionais quando necessário.
+- Funciona sem internet depois do primeiro carregamento em um site HTTPS com service worker ativado.
+
+PARA COLOCAR NO GITHUB PAGES
+1. Extraia o ZIP.
+2. Faça upload de index.html, app.js, styles.css, sw.js, manifest.webmanifest e pasta assets
+   para a RAIZ de um repositório GitHub (ou de uma pasta publicada).
+3. Em Settings > Pages, habilite Deploy from a branch > main > / (root), ou o fluxo de Pages de sua escolha.
+4. Abra o endereço HTTPS informado pelo GitHub Pages.
+5. No navegador do celular, escolha “Adicionar à tela inicial” ou “Instalar aplicativo” quando disponível.
+   O PWA é instalável apenas em origens seguras (HTTPS ou localhost compatível).
+
+COMO USAR AS FOTOS
+1. No índice anatômico, clique em uma região (rim, ureter, bexiga etc.).
+2. Na estrutura correta, pressione “Adicionar fotos” ou “Usar câmera”.
+3. As miniaturas aparecem na ficha e ficam salvas naquele dispositivo/navegador.
+4. Clique na miniatura para ampliar; use × para remover a foto da ficha.
+5. Para trocar de aparelho ou proteger seu estudo contra perda de dados, use “Backup”.
+   O arquivo JSON poderá ser recuperado em “Restaurar”.
+
+COMO SALVAR O PDF SEM CORTAR IMAGENS
+1. Clique em “PDF sem cortes”.
+2. Selecione o roteiro completo, a seleção atual ou somente estruturas com fotografias.
+3. Escolha capa, descrições, anotações e espaços vazios.
+4. Clique em “Preparar impressão”.
+5. Na janela do navegador, escolha “Salvar como PDF”, papel A4,
+   escala 100%, margens Nenhuma e sem cabeçalhos/rodapés adicionais do navegador.
+   Ative “gráficos em segundo plano” caso queira a capa colorida no PDF.
+6. Cada imagem é ajustada à área disponível sem recorte e o aplicativo
+   abre nova folha para fotografias adicionais ou anotações extensas.
+
+ATENÇÃO À PRIVACIDADE
+O PWA não envia fotografias ou notas a qualquer servidor. As imagens do seu atlas
+ficam no armazenamento deste navegador; apagar dados do site ou usar outra máquina
+pode fazer os registros sumirem. Faça backups regulares.
+
+OBSERVAÇÃO SOBRE A TRANSCRIÇÃO
+O conteúdo deste pacote foi estruturado somente a partir das duas capturas do roteiro
+fornecidas. O cabeçalho URETRA FEMININA aparece sem itens numerados, por isso o app
+inclui uma ficha identificadora sem número. As descrições e dicas anatômicas adicionais
+são material de apoio e podem ser ajustadas pela docente.
+
+COMPATIBILIDADE
+Chrome/Edge atuais em Android, computador e navegadores modernos com IndexedDB.
+No iPhone, o botão câmera pode abrir o seletor com opção de câmera. Use HTTPS
+para garantir que instalação e armazenamento funcionem corretamente.
